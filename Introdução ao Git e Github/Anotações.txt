@@ -1,1 +1,4 @@
+09/07/2022
+
 o GitBash é um terminal extendido para otimizar o uso do Git
+Alguns comandos: git add *, git init, git clone, mkdir, rmdir
